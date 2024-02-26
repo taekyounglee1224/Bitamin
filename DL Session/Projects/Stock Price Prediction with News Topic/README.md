@@ -6,3 +6,5 @@
 뉴스 데이터는 API를 이용해 크롤링하였고, 감성분석을 통해 긍/부정 항목을 추가하였다.
 주가 데이터는 정상성을 띄도록 전처리한 후, ta 라이브러리의 다양한 기술적 지표들을 칼럼에 추가하여 학습 시 성능을 높이고자 하였다.
 딥러닝 모델로는 LSTM, GRU, Transformer 을 사용했고, 각 모델별 최적의 파라미터를 도출한 뒤 성능을 비교하였다.
+
+To view more codes: https://github.com/skier-song9/bitamin_winter_proj/tree/master (공동 작업자 5인 중 1인)
